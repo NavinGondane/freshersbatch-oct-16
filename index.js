@@ -15,3 +15,4 @@ let b = 20;
 let sum = a + b;
 
 console.log("The sum of a and b is: " + sum);
+console.log("This is for JS practice");
